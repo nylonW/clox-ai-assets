@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "imageUrl": "https://stablediffusion.fr/assets/prompt/eagle_framed_vector_flowers_shiny_floral.webp",
+    "prompt: "overwhelmingly beautiful eagle framed with vector flowers, long shiny wavy flowing hair, polished, ultra detailed vector floral illustration mixed with hyper realism, muted pastel colors, vector floral details in background, muted colors, hyper detailed ultra intricate overwhelming realism in detailed complex scene with magical fantasy atmosphere, no signature, no watermark"
+  }, 
+  {
+    "imageUrl": "https://stablediffusion.fr/assets/prompt/painting_man_hill_watching_rocket_launch.webp",
+    "prompt: "a highly detailed matte painting of a man on a hill watching a rocket launch in the distance by studio ghibli, makoto shinkai, by artgerm, by wlop, by greg rutkowski, volumetric lighting, octane render, 4 k resolution, trending on artstation, masterpiece | hyperrealism| highly detailed| insanely detailed| intricate| cinematic lighting| depth of field"
+  },
+  {
+    "imageUrl": "https://stablediffusion.fr/assets/prompt/electronik_robot_and_ofice_cozy_indoor.webp",
+    "prompt: "electronic robot and ofice ,unreal engine, cozy indoor lighting, artstation, detailed, digital painting,cinematic,character design by mark ryden and pixar and hayao miyazaki, unreal 5, daz, hyperrealistic, octane render"
+  }
+]
